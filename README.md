@@ -25,7 +25,7 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
   <li> Languages: Python, JavaScript, HTML / JSX, CSS
   <li> Frameworks: Django REST Framework, React.js
   <li> Database: SQLite
-  <li> Libraries:
+  <li> Libraries: Axios, faker, js_cookie, react-router, boto3, Pillow
   <li> Server: Amazon EC2, Nginx
  </ul></br>
 
