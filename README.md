@@ -1,8 +1,10 @@
 # upcomers
 Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
 
-<strong>About:</strong></br></br>
-This repository was created to serve information about this project. The data repository is private</br>
+<strong>About:</strong></br>
+<ul>
+  <li> This repository was created to serve information about this project. The data repository is private</br>
+</ul>
 
 <strong>Contributors:</strong></br>
 <ul>
