@@ -5,7 +5,7 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
 <ul>
   <li> This repository was created to serve information about this project. The data repository is private</br>
 </ul></br>
-
+***
 <strong>Contributors:</strong></br>
 <ul>
   <li> Project Manager and Contributor (Full Stack) -- Lucie Wang</br>
@@ -32,4 +32,6 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
 </ul></br>
 
 <strong>Demo:</strong></br>
-Coming soon
+<ul>
+  <li>Coming soon
+</ul>
