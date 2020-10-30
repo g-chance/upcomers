@@ -47,5 +47,10 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
   <li>See below for some short videos which demo the site.
 </ul>
 
+<hr>
+
 <strong>Talent can login to view active briefs, and participate for a chance to be commissioned</strong></br></br>
 ![Talent Dashboard](https://github.com/g-chance/upcomers/blob/master/demo_talent.gif)</br></br>
+
+<strong>Clients can login to view candidates for their briefs, view brief submissions, and select brief winners</strong></br></br>
+![Client Dashboard](https://github.com/g-chance/upcomers/blob/master/demo_client.gif)</br></br>
