@@ -43,6 +43,10 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
 </ul></br>
 
 <strong>Demo:</strong></br>
+
 <ul>
-  <li>Coming soon
+  <li>See below for some short videos which demo the site.
 </ul>
+
+<strong>Talent can login to view active briefs, and participate for a chance to be commissioned</strong></br></br>
+![Create an account]()</br></br>
