@@ -31,7 +31,6 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
 
 <strong>Process:</strong></br>
 <ul>
-  <li> Coming Soon</br>
   <li> The backend / full stack team created a Entity Relationship Diagram to serve as a prototype for our database schema.
   <li> Using Django REST Framework, we built our Models, Views, and Serializers, implemented Token Authentication, and 
     followed guidelines to create a secure RESTful API.
@@ -49,4 +48,4 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
 </ul>
 
 <strong>Talent can login to view active briefs, and participate for a chance to be commissioned</strong></br></br>
-![Create an account]()</br></br>
+![Talent Dashboard](https://github.com/g-chance/upcomers/blob/master/demo_talent.gif)</br></br>
