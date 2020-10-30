@@ -57,3 +57,6 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
 
 <strong>The site admin has super admin privileges and can approve or decline company and brief creation requests</strong></br></br>
 ![Admin Dashboard](https://github.com/g-chance/upcomers/blob/master/admin_demo.gif)</br></br>
+
+<strong>The site is fully responsive</strong></br></br>
+![Responsive Dashboard](https://github.com/g-chance/upcomers/blob/master/demo_responsive.gif)</br></br>
