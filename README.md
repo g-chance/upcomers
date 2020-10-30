@@ -54,3 +54,6 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
 
 <strong>Clients can login to view candidates for their briefs, view brief submissions, and select brief winners</strong></br></br>
 ![Client Dashboard](https://github.com/g-chance/upcomers/blob/master/demo_client.gif)</br></br>
+
+<strong>The site admin has super admin privileges and can approve or decline company and brief creation requests</strong></br></br>
+![Admin Dashboard](https://github.com/g-chance/upcomers/blob/master/admin_demo.gif)</br></br>
