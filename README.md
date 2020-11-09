@@ -31,7 +31,7 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
 
 <strong>Process:</strong></br>
 <ul>
-  <li> The backend / full stack team created a Entity Relationship Diagram to serve as a prototype for our database schema.
+  <li> The backend / full stack team created an Entity Relationship Diagram to serve as a prototype for our database schema.
   <li> Using Django REST Framework, we built our Models, Views, and Serializers, implemented Token Authentication, and 
     followed guidelines to create a secure RESTful API.
   <li> We connected our API to our frontend and implemented an api service, to allow simple access to our api for our frontend
