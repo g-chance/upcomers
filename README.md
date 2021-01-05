@@ -1,5 +1,5 @@
 # upcomers
-Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/login</br>
+Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/register/talent</br>
 
 <strong>About:</strong></br>
 <ul>
