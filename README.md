@@ -38,7 +38,6 @@ Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/register/talen
     specific developers.
   <li> The frontend / full stack team built our SPA using React.js, using pure functional components by leveraging React 16 hooks.
   <li> CSS Grid was applied to the entire site to make it fully responsive.
-  <li> The site is being actively developed and new features are still being added.
 </ul></br>
 
 <strong>Demo:</strong></br>
