@@ -1,5 +1,5 @@
 # upcomers
-Site Demo URL: http://upcomers.s3-website-us-west-1.amazonaws.com/register/talent</br>
+Site Demo URL: As of Dec 2020, our team stopped maintaining this site and another team took over. It appears that they have either changed the url or stopped maintaining it themselves. Please see below screenshots for the site demo.
 
 <strong>About:</strong></br>
 <ul>
